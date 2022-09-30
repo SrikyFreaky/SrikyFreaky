@@ -19,7 +19,7 @@ You can call me **Sri**, I am 21 and a Senior Year Computer Science Student [@Pr
 <a href="https://www.linkedin.com/in/SrikyFreaky/"><img src="https://user-images.githubusercontent.com/45766521/136404001-cdd2bfee-40e1-4162-b35c-9e401e0008ee.png" width="60" height="60" >
 <a href="mailto:ksri5144@gmail.com"><img src="https://user-images.githubusercontent.com/45766521/136409613-d9d73038-e815-4034-a8ab-04930e7f806c.png"  width="60" height="60">
 <a href="https://www.hackerrank.com/SrikyFreaky"><img src="https://user-images.githubusercontent.com/45766521/136411856-f7f16779-1edf-452c-b612-e34142137098.png"  width="70" height="70" >
-<a href="https://www.codechef.com/users/srikyfreaky"><img src="https://user-images.githubusercontent.com/45766521/136437191-cd5508f5-5594-4bb0-99c4-c488b560c5d3.png"  width="70" height="70" >	
+<!-- <a href="https://www.codechef.com/users/srikyfreaky"><img src="https://user-images.githubusercontent.com/45766521/136437191-cd5508f5-5594-4bb0-99c4-c488b560c5d3.png"  width="70" height="70" >	 -->
 	
 	
 </a>
